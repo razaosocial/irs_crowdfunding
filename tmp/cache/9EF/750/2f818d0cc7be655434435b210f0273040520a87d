@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1374690644.034327:@value"è[I"ÛCATARSE.Project = Backbone.Model.extend({
+  urlRoot: '/projects',
+	initialize: function() {
+		this.backers = new CATARSE.Backers()
+		this.backers.url = '/' + CATARSE.locale + '/projects/' + this.id + '/backers'
+	}
+})
+;
+:EF

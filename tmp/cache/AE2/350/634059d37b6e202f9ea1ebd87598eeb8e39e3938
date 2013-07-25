@@ -1,0 +1,5 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1374690643.876009:@value"e[I"YCATARSE.Backers = CATARSE.PaginatedCollection.extend({
+  model: CATARSE.Backer
+})
+;
+:EF

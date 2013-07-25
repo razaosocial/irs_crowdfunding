@@ -1,0 +1,4 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1374690644.0513964:@value"S[I"GCATARSE.Reward = Backbone.Model.extend({
+  urlRoot: '/reward'
+});
+:EF
